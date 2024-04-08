@@ -1,0 +1,11 @@
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.deps.json
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.dll
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.pdb
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfoInputs.cache
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfo.cs
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.csproj.CoreCompileInputs.cache
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.dll
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\obj\Debug\net8.0\refint\TaskManager.Communication.dll
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.pdb
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Communication\obj\Debug\net8.0\ref\TaskManager.Communication.dll

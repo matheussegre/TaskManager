@@ -1,0 +1,15 @@
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.deps.json
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.dll
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\bin\Debug\net8.0\TaskManager.Application.pdb
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.dll
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\bin\Debug\net8.0\TaskManager.Communication.pdb
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.AssemblyReference.cache
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfoInputs.cache
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.AssemblyInfo.cs
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.CoreCompileInputs.cache
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.csproj.CopyComplete
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.dll
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\obj\Debug\net8.0\refint\TaskManager.Application.dll
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\obj\Debug\net8.0\TaskManager.Application.pdb
+D:\Cursos\_Rocketseat\_CSharp\TaskManager.Application\obj\Debug\net8.0\ref\TaskManager.Application.dll
